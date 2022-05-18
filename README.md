@@ -9,3 +9,5 @@ im currently learning  Data Structures and Algorithms.
 [Lettercount.c](https://github.com/jeshu5/19ECB132./blob/main/LetterCount.c)
 
 [LinearDataStructure.c](https://github.com/jeshu5/19ECB132./blob/main/LinearDataStructure.c)
+
+[doubly linked list.c](https://github.com/jeshu5/19ECB132./blob/main/doublylinkedlist.c)
