@@ -4,3 +4,4 @@ im currently learning  Data Structures and Algorithms.
 # INDEX
 ADD DELETE MODIFY AN ELEMENT IN ARRAY.C
 ADD DELETE MODIFY AN ELEMENT IN LINKEDLIST.C
+LetterCount.c
