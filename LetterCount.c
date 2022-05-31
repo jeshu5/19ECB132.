@@ -11,3 +11,11 @@ int main(void) {
   printf("\nThe number of letters in the given sentence are : %d\n", number_of_letters);
   return 0;
 }
+output
+ gcc LetterCount.c
+~/19ECB132$ ./a.out
+Enter a sentence:  gcc LetterCount.c
+~/19ECB132$ ./a.out
+Enter a sentence: the quick brown fox jumps over the lazy dog
+
+The number of letters in the given sentence are : 3
