@@ -149,3 +149,10 @@ int main() {
   printf("\nSorted List: ");
   printList(head);
 }
+output
+/19ECB132 gcc LINKEDLIST.c
+~/19ECB132 ./a.out
+Linked list:  3  2  5  1  4 
+After deleting an element:  2  5  1  4 
+3 is not found
+Sorted List:  1  2  4  5 ~/19ECB132 
