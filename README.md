@@ -7,3 +7,4 @@ im currently learning  Data Structures and Algorithms.
 [Lettercount.c](LetterCount.c)  
 [LinearDataStructure.c](LinearDataStructure.c)  
 [doubly linked list.c](doublylinkedlist.c)  
+[binarytree.c](binarytree.c)
