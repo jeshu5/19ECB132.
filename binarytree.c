@@ -71,7 +71,7 @@ int main() {
   printf("\nPostorder traversal \n");
   postorderTraversal(root);
 }
-output
+/*output
 ~/19ECB132$ gcc binarytree.c
 ~/19ECB132$ ./a.out
 Inorder traversal 
@@ -80,3 +80,4 @@ Preorder traversal
 1 ->2 ->4 ->3 ->
 Postorder traversal 
 4 ->2 ->3 ->1 ->~/19ECB132$ 
+*/
