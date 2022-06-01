@@ -34,7 +34,7 @@ int main() {
   } // end of while
   
 } // end of main
-output
+/*output
 ~/19ECB132$ gcc doublylinkedlist.c
 ~/19ECB132$ ./a.out
 
@@ -43,3 +43,4 @@ output
 0
 1
 2~/19ECB132$ 
+*/
