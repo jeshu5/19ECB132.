@@ -94,8 +94,9 @@ int main()
 	inOrder(root);
 	return 0;
 }
-output
+/*output
 ~/19ECB132-1$ gcc threadedbinarytree.c
 ~/19ECB132-1$ ./a.out
 Inorder traversal of created threaded tree is
 4 2 5 1 6 3 7 ~/19ECB132-1$ 
+*/
